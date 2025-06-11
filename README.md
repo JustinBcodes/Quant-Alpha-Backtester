@@ -24,8 +24,8 @@ This system implements a multi-factor alpha strategy generator and backtesting e
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/quant-alpha-aws.git
-cd quant-alpha-aws
+git clone https://github.com/JustinBcodes/Quant-Alpha-Backtester.git
+cd Quant-Alpha-Backtester
 ```
 
 2. Create a Python environment (recommended Python 3.9+):
@@ -285,4 +285,4 @@ quant-alpha-aws/
 - `fastapi` for API
 - `boto3` for AWS integration
 - `scikit-learn` for machine learning components
-- `LightGBM` for gradient boosting 
+- `LightGBM` for gradient boosting
