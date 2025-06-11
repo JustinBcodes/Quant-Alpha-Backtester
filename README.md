@@ -279,6 +279,7 @@ quant-alpha-aws/
 
 ## Acknowledgments
 
+
 - `yfinance` for market data
 - `bt` for backtesting
 - `streamlit` for dashboard
@@ -286,3 +287,9 @@ quant-alpha-aws/
 - `boto3` for AWS integration
 - `scikit-learn` for machine learning components
 - `LightGBM` for gradient boosting
+
+<img width="1710" alt="Screenshot 2025-06-10 at 9 31 04 PM" src="https://github.com/user-attachments/assets/57c58069-5e8e-422b-ad58-4d3a7dd4a650" />
+
+<img width="1710" alt="Screenshot 2025-06-10 at 9 30 56 PM" src="https://github.com/user-attachments/assets/c34309c9-0606-4253-84a1-28689d2b4698" />
+
+<img width="1710" alt="Screenshot 2025-06-10 at 11 02 02 PM" src="https://github.com/user-attachments/assets/4576ff59-667f-478c-9370-7d0a0db1341b" />
