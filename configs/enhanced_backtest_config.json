@@ -1,0 +1,37 @@
+{
+    "initial_capital": 1000000,
+    "commission": 0.001,
+    "rebalance_frequency": 5,
+    "strategy": {
+        "use_market_regime": true,
+        "signal_combiner_method": "ridge",
+        "position_sizing_method": "inverse_vol",
+        "target_volatility": 0.15,
+        "max_stock_weight": 0.20,
+        "max_sector_weight": 0.40,
+        "enable_performance_monitoring": true
+    },
+    "sector_map": {
+        "AAPL": "Technology",
+        "MSFT": "Technology",
+        "GOOGL": "Technology",
+        "AMZN": "Consumer Cyclical",
+        "META": "Technology",
+        "SPY": "ETF",
+        "JNJ": "Healthcare",
+        "PFE": "Healthcare",
+        "MRK": "Healthcare",
+        "ABBV": "Healthcare",
+        "LLY": "Healthcare",
+        "JPM": "Financial",
+        "BAC": "Financial",
+        "MS": "Financial",
+        "GS": "Financial",
+        "WFC": "Financial",
+        "XOM": "Energy",
+        "CVX": "Energy",
+        "COP": "Energy",
+        "EOG": "Energy",
+        "SLB": "Energy"
+    }
+} 
