@@ -288,8 +288,7 @@ quant-alpha-aws/
 - `scikit-learn` for machine learning components
 - `LightGBM` for gradient boosting
 
-<img width="1710" alt="Screenshot 2025-06-10 at 9 31 04 PM" src="https://github.com/user-attachments/assets/57c58069-5e8e-422b-ad58-4d3a7dd4a650" />
+<img width="1361" alt="Screenshot 2025-06-10 at 11 21 17 PM" src="https://github.com/user-attachments/assets/a726dda2-2705-40ec-ade4-4b5f62d63892" />
 
-<img width="1710" alt="Screenshot 2025-06-10 at 9 30 56 PM" src="https://github.com/user-attachments/assets/c34309c9-0606-4253-84a1-28689d2b4698" />
-
-<img width="1710" alt="Screenshot 2025-06-10 at 11 02 02 PM" src="https://github.com/user-attachments/assets/4576ff59-667f-478c-9370-7d0a0db1341b" />
+<img width="1367" alt="Screenshot 2025-06-10 at 11 21 27 PM" src="https://github.com/user-attachments/assets/ad7f5a26-d01d-4f2a-9452-fc7335d98507" />
+<img width="1298" alt="Screenshot 2025-06-10 at 11 22 39 PM" src="https://github.com/user-attachments/assets/b509578f-6443-4c0f-bf07-0b9944638988" />
